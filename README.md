@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andika Pratama</h1>
-<h3 align="center">IT student in Yogyakarta State University</h3>
+<h3 align="center">IT student from Yogyakarta State University</h3>
 
 ---
 
