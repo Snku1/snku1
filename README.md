@@ -10,6 +10,15 @@
 
 ---
 
+### Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/username/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:andpra10705@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.instagram.com/andikap._/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+</p>
+
+---
+
 ### Languages & Tools
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -33,13 +42,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndikaPratama&theme=tokyonight" alt="GitHub Streak" height="180"/>
 </p>
 
----
-
-### Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/username/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:andpra10705@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://www.instagram.com/andikap._/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-</p>
-
----
